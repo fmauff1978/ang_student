@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "student-52a48": {
+      "hosting": {
+        "ang_student": [
+          "student-52a48"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "student-52a48"
+  }
+}

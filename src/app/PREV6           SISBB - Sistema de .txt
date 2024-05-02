@@ -1,0 +1,77 @@
+PREV6           SISBB - Sistema de Informacoes Banco do Brasil      10/11/2023
+  F3163049              Administracao de Recursos Humanos               15:43:17
+  ---------- Consultar TAO Conglomerado - TAO-Oportunidades Inscricao ----------
+  Matricula   : 3163049  - FABIO MEDEIROS DE ASSIS                              
+  Oportunidade: CCO23068 - PREVI - GERENTE EXECUTIVO GECAP                      
+  ------------------------------------------------------------------------------
+   Formacao Superior:                                          30,00     30,00  
+   Graduacao:                                                  12,00     12,00  
+     GRAD CIENCIAS ECONOMICA - graduacao completa (100%)       12,00     12,00  
+   Pos-Graduacao:                                              18,00     18,00  
+     MESTR ECONOMIA EMPRESARIAL (100%)                         12,00     12,00  
+     ESPEC GESTAO DE VAREJO (  50,00 %)                        12,00      6,00  
+     BB MBA DIGITAL BUSINESS (0%)                               7,00            
+   Cursos GTD:                                                  3,84      3,84  
+     SAPIENCIA-MATEM FINAN AVANCADO                             0,46      0,46  
+     ODS - ECONOMIA VERDE E ECOEFIC                             0,31      0,31  
+     FUNDOS DE INVESTIMENTO                                     0,46      0,46  
+     NEGOCIOS SUSTENTAVEIS                                      0,31      0,31  
+     ECONOMIA APLICADA, CURSO 8H                                0,46      0,46  
+     INVESTIMENTOS FINANCEIROS- CIF                             0,46      0,46  
+     INTELIGENCIA EMOCIONAL: PRATIC                             0,46      0,46  
+------------------------------------------------------------------------------
+     INTEGRIDADE CORPORATIVA: TOMAD                             0,46      0,46  
+     NEGOCIACAO PARA LIDERES: DESEN                             0,46      0,46  
+   Pontuação GDP                                                2,05      2,05  
+    ((Méd.PlacarGDP:088,43 - Placar Min.:070,00) x Fator:                       
+    003,00)/(Placar Max:100 - Fator MMPM:-003,92 - Placar Min.                  
+    070,00) x (Méd.PlacarGDP/Placar Min:070,00)  
+
+
+
+
+PREV6           SISBB - Sistema de Informacoes Banco do Brasil      10/11/2023
+  F3163049              Administracao de Recursos Humanos               16:54:05
+  ---------- Consultar TAO Conglomerado - TAO-Oportunidades Inscricao ----------
+  Matricula   : 3163049  - FABIO MEDEIROS DE ASSIS                              
+  Oportunidade: CCO23068 - PREVI - GERENTE EXECUTIVO GECAP                      
+  ------------------------------------------------------------------------------
+   Formacao Superior:                                          30,00     30,00  
+   Graduacao:                                                  12,00     12,00  
+     GRAD CIENCIAS ECONOMICA - graduacao completa (100%)       12,00     12,00  
+   Pos-Graduacao:                                              18,00     18,00  
+     MESTR ECONOMIA EMPRESARIAL (100%)                         12,00     12,00  
+     ESPEC GESTAO DE VAREJO (  50,00 %)                        12,00      6,00  
+     BB MBA DIGITAL BUSINESS (0%)                               7,00            
+   Cursos GTD:                                                  5,38      5,38  
+     SAPIENCIA-MATEM FINAN AVANCADO                             0,46      0,46  
+     ODS - ECONOMIA VERDE E ECOEFIC                             0,31      0,31  
+     FUNDOS DE INVESTIMENTO                                     0,46      0,46  
+     NEGOCIOS SUSTENTAVEIS                                      0,31      0,31  
+     ECONOMIA APLICADA, CURSO 8H                                0,46      0,46  
+     INVESTIMENTOS FINANCEIROS- CIF                             0,46      0,46  
+     PONTOS FORTES PARTE 2: HABILID                             0,31      0,31  
+     NEGOCIACAO PARTE 1: PRATICAS E                             0,46      0,46  
+     NEGOCIACAO PARTE 2: TECNICAS A                             0,46      0,46  
+     RELACIONAMENTO INTERPESSOAL PA                             0,31      0,31  
+     INTELIGENCIA EMOCIONAL: PRATIC                             0,46      0,46  
+     INTEGRIDADE CORPORATIVA: TOMAD                             0,46      0,46  
+     NEGOCIACAO PARA LIDERES: DESEN                             0,46      0,46  
+   Pontuação GDP                                                2,05      2,05  
+    ((Méd.PlacarGDP:088,43 - Placar Min.:070,00) x Fator:                       
+    003,00)/(Placar Max:100 - Fator MMPM:-003,92 - Placar Min.                  
+    070,00) x (Méd.PlacarGDP/Placar Min:070,00)                                 
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                                               
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
